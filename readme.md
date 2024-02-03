@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Google Learning](./img/p.gif)](https://ibrsec.github.io/shark-tammy/)
+[![Shark-sammy](./img/p.gif)](https://ibrsec.github.io/shark-tammy/)
 
 
 
