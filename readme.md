@@ -16,7 +16,7 @@
     <a href="https://github.com/ibrsec/shark-tammy"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/shark-tammy/">View Demo</a>
+    <a href="https://shark-tammy.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/shark-tammy/issues">Report Bug</a>
     ·
@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Shark-sammy](./img/p.gif)](https://ibrsec.github.io/shark-tammy/)
+[![Shark-sammy](./img/p.gif)](https://shark-tammy.vercel.app/)
 
 
 
